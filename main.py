@@ -1,5 +1,5 @@
 import requests
-import pydig
+import pydig 
 
 # Ask to input domain. With Domainify app, might be a different method for input.
 domain = input('Enter the domain name: ').lower()
